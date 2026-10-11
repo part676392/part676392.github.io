@@ -5,5 +5,5 @@ Sitemap: https://part676392.github.io/dsh-money-engine/sitemap.xml
 
 # 機械向けのご案内 (実測の数を平文で置いてある):
 #   https://part676392.github.io/dsh-money-engine/llms.txt
-# 面接質問の資料本体: 頁 496 枚 / 質問 1,779 行 / 選考段階 2,021 行
+# 面接質問の資料本体: 頁 473 枚 / 質問 1,779 行 / 選考段階 2,021 行
 # この host root は 2026-10-12 に開いた (それまで /robots.txt は 404 だった)
